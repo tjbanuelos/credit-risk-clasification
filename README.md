@@ -1,6 +1,4 @@
-## Overview of the Analysis
-
-In this section, describe the analysis you completed for the machine learning models used in this Challenge. This might include:
+## Overview of this project
 
 * The purpose of this analysis is to use supervised machine learning to classify a loan type as either `0` (healthy) or `1` (high-risk)
 * The dataset provided was titled lending_data.csv and contained anonymous loan data with the following categories
